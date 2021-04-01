@@ -15,22 +15,24 @@ A continuación se detallan los contenidos a impartir en este módulo:
 
 2. Despliegue de aplicaciones web en Python (4h)
 
-    2.1. [WSGI / ASGI](despliegue-aplicaciones-web/wsgi-asgi.md)
+    2.1. [WSGI / ASGI](despliegue-aplicaciones-web/wsgi-asgi.ipynb)
 
-    2.2. [Gunicorn](despliegue-aplicaciones-web/gunicorn.md)
+    2.2. [Gunicorn](despliegue-aplicaciones-web/gunicorn.ipynb)
 
-    2.3. [Nginx](despliegue-aplicaciones-web/nginx.md)
+    2.3. [Nginx](despliegue-aplicaciones-web/nginx.ipynb)
 
 
 3. Virtualización (12h)
 
-    3.1. [Docker](virtualizacion/docker.md)
+    3.1. [Vagrant](virtualizacion/vagrant.ipynb)
 
-    3.2. [Kubernetes](virtualizacion/kubernetes.md)
+    3.1. [Docker](virtualizacion/docker.ipynb)
+
+    3.2. [Kubernetes](virtualizacion/kubernetes.ipynb)
 
 4. Automatización (8h)
 
-    4.1. [Ansible](automatizacion/ansible.md)
+    4.1. [Ansible](automatizacion/ansible.ipynb)
 
-    4.2. [Fabric](automatizacion/fabric.md)
+    4.2. [Fabric](automatizacion/fabric.ipynb)
 
