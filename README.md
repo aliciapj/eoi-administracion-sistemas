@@ -5,6 +5,7 @@ Históricamente la administración de sistemas se ha fundamentado en el “scrip
 A continuación se detallan los contenidos a impartir en este módulo:
 
 1. Programación en redes (4h)
+
     1.1. [Arquitecturas cliente-servidor](programacion-en-redes/arquitecturas-cliente-servidor.ipynb)
 
     1.2. [Protocolos de red](programacion-en-redes/protocolos-red.ipynb)  
